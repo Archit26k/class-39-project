@@ -11,14 +11,11 @@ var form, player, game;
 var heroes, hero1, hero2;
 
 function preload(){
-  // hero1Img = loadImage("images/hero1.png")
-  // hero2Img = loadImage("images/hero2.png")
-  // car3Img = loadImage("images/car3.png")
-  // car4Img = loadImage("images/car4.png")
+  
   hero1Img = loadImage("superhero.png")
   hero2Img = loadImage("superhero1(1).png")
   backgroundImg = loadImage("background.jpg")
-   groundImg =   loadImage("images/ground.png")
+ 
    trackImg = loadImage("images/track.jpg")
 
 }
